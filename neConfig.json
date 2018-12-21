@@ -16,7 +16,7 @@
     	"tileSrc":"images/hot-osm.png",
     	"mapboxStyle":"styles/natural-earth-quickstart.json",
     	"olStyle":"styles/natural-earth-quickstart.json",
-    	"host":"http://35.247.6.139:9090"
+    	"host":"http://35.233.232.82:9090"
     }],
     "srcs":[{
     	"key":"ec2",
